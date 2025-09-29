@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Scene Transformer",
+  "description": "Upload an image and use the Gemini API to generate six different cinematic shots of the same scene, each from a unique angle and perspective. Explore wide-angle, bird's-eye view, POV, close-up, and more, then download your creations.",
+  "requestFramePermissions": []
+}
